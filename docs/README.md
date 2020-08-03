@@ -1,4 +1,4 @@
-![](https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-1.png)
+![](https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-1.png)|![](https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-2.png)
 
 ## SG-Bot
 ### Fully enclosed Core XY 3d printer with replaceable head
