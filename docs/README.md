@@ -4,6 +4,7 @@
 
 - [Credits](#credits)
 - [Main features](#main-features)
+- [Source model](#source-model)
 
 ## Credits
 - Although the project was fully design from scratch, the design was highly inspired by [BLV-MGN-Cube](https://www.blvprojects.com/blv-mgn-cube-3d-printer) (thanks to [Ben Levi](https://www.blvprojects.com/about) and BLV MGN community for various ideas, taken into SG-bot)
@@ -27,7 +28,7 @@ Fully enclosed design, with acrylic (plexiglass) walls and top
 ### CoreXY kinematics
 Core XY kinematics was chosen for space efficiency
 
-<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-1.png" height="240px"> <img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-2.png" height="240px">
+<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-1.png" height="120px"> <img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-2.png" height="120px">
 
 ### Replaceable heads
 Easily detachable head, allowing to use various heads:
@@ -60,4 +61,5 @@ These sensors were tried with different build surfaces (Flexible magnetic surfac
 - Hiwin MGN12 rails
 - SKR Pro 1.1 board
 
-
+### Source model
+Source model is available [here](https://a360.co/39YiT02)
