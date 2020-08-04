@@ -6,6 +6,7 @@
 - [Main features](#main-features)
 - [Source model](#source-model)
 - [Bill of materials (BOM)](#bill-of-materials)
+- [3D printed parts](#3d-printed-parts)
 - [Assembly guide](#assembly-guide)
 
 ## Credits
@@ -68,6 +69,9 @@ Source model is available [here](https://a360.co/39YiT02)
 
 ### Bill of materials
 *To be defined*
+
+### 3D Printed parts
+[Download from Thigiverse](https://www.thingiverse.com/thing:4561234)
 
 ### Assembly guide
 *To be defined*
