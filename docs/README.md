@@ -16,7 +16,7 @@
 - [Fully enclosed](#fully-enclosed)
 - [CoreXY kinematics](#corexy-kinematics)
 - [Replaceable heads](#replaceable-heads)
-- [Built-in leveling sensor](#built-in-leveling-sensor)
+- [Carriage-mounted leveling sensor](#built-in-leveling-sensor)
 - [Affordable and widely available parts](#affordable-and-widely-available-parts)
 
 ### Fully enclosed
@@ -43,7 +43,7 @@ Easily detachable head, allowing to use various heads:
 ### Built-in leveling sensor
 
 #### Built-in
-One of the primary design goals was to have a replaceable head. In order to avoid the need for each head to have its own leveling sensor, it was decided to have a leveling sensor as part of the carriage
+One of the primary design goals was to have a replaceable head. In order to avoid the need for each head to have its own leveling sensor, it was decided to have a leveling sensor as part of the carriage and not part of the head
 
 #### Piezo sensor
 Multiple sensor options were tried before designing piezo sensor:
