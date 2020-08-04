@@ -5,12 +5,7 @@
 
 ### SG-Bot main features
 - Fully enclosed
-- Replaceable heads:
-  - e3d head
-  - Multimaterial head
-  - Laser Engraver head
-  - Pen holder head
-  
+- Replaceable heads
 - Built-in piezo leveling sensor
 - Affordable and highly available parts
 
@@ -21,10 +16,11 @@ Fully enclosed design, with acrylic (plexiglass) walls and top
 
 ### Repleacable head
 Easily detachable head, allowing to use various heads:
-- e3d head
-- Multimaterial head
-- Laser Engraver head
-- Pen holder head
+- [x] Bowden head 
+- [x] Pen holder head
+- [ ] Remote shaft direct extruder head (*to be designed*)
+- [ ] Multimaterial head (*to be designed*)
+- [ ] Laser Engraver head (*to be designed*)
 
 <img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-carriage-2.png" height="240px">|
 <img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-head-2.png" height="240px">
