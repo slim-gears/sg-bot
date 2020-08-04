@@ -26,8 +26,10 @@ Easily detachable head, allowing to use various heads:
 - Laser Engraver head
 - Pen holder head
 
-<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-head-2.png" width="320px">
+<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-carriage-2.png" height="240px">|
+<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-head-2.png" height="240px">
 
 ### Piezo sensor
+One of the main design goals was 
 
 ## Work is still in progress...
