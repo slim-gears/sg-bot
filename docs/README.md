@@ -6,7 +6,7 @@
 - [Main features](#main-features)
 
 ## Credits
-- Although the project was fully design from scratch, the design was highly inspired by [BLV-MGN-Cube](https://www.blvprojects.com/blv-mgn-cube-3d-printer) (thanks to Ben Levi and BLV MGN community for various ideas, taken into SG-bot)
+- Although the project was fully design from scratch, the design was highly inspired by [BLV-MGN-Cube](https://www.blvprojects.com/blv-mgn-cube-3d-printer) (thanks to [Ben Levi](https://www.blvprojects.com/about) and BLV MGN community for various ideas, taken into SG-bot)
 - The project uses various standard parts models taken from [GrabCad library](https://grabcad.com/library)
 - The project was designed using Fusion 360 community edition
 
