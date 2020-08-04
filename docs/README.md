@@ -13,21 +13,21 @@
 ## Fully enclosed Core XY 3d printer with replaceable head
 
 ### Main features
-- [CoreXY kinematics](#corexy-kinematics)
 - [Fully enclosed](#fully-enclosed)
+- [CoreXY kinematics](#corexy-kinematics)
 - [Replaceable heads](#replaceable-heads)
 - [Built-in leveling sensor](#built-in-leveling-sensor)
 - [Affordable and widely available parts](#affordable-and-widely-available-parts)
-
-### CoreXY kinematics
-Core XY kinematics was chosen for space efficiency
-
-<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-1.png" height="240px">
 
 ### Fully enclosed
 Fully enclosed design, with acrylic (plexiglass) walls and top
 
 <img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-1.png" height="240px">
+
+### CoreXY kinematics
+Core XY kinematics was chosen for space efficiency
+
+<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-1.png" height="240px">
 
 ### Replaceable heads
 Easily detachable head, allowing to use various heads:
