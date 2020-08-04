@@ -5,6 +5,8 @@
 - [Credits](#credits)
 - [Main features](#main-features)
 - [Source model](#source-model)
+- [Bill of materials (BOM)](#bill-of-materials)
+- [Assembly guide](#assembly-guide)
 
 ## Credits
 - Although the project was fully design from scratch, the design was highly inspired by [BLV-MGN-Cube](https://www.blvprojects.com/blv-mgn-cube-3d-printer) (thanks to [Ben Levi](https://www.blvprojects.com/about) and BLV MGN community for various ideas, taken into SG-bot)
@@ -63,3 +65,9 @@ These sensors were tried with different build surfaces (Flexible magnetic surfac
 
 ### Source model
 Source model is available [here](https://a360.co/39YiT02)
+
+### Bill of materials
+*To be defined*
+
+### Assembly guide
+*To be defined*
