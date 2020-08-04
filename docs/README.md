@@ -21,6 +21,7 @@
 
 ### CoreXY kinematics
 Core XY kinematics was chosen for space efficiency
+
 <img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-1.png" height="240px">
 
 ### Fully enclosed
