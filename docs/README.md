@@ -22,7 +22,7 @@ Easily detachable head, allowing to use various heads:
 - [ ] Multimaterial head (*to be designed*)
 - [ ] Laser Engraver head (*to be designed*)
 
-<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-carriage-2.png" height="240px">|
+<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-carriage-2.png" height="240px">
 <img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-head-2.png" height="240px">
 
 ### Piezo sensor
