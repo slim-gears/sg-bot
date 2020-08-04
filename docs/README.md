@@ -1,6 +1,6 @@
-![](https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-2.png)
-
 # SG-Bot
+
+![](https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-2.png)
 
 ## Work is still in progress...
 
