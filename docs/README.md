@@ -27,7 +27,7 @@ Fully enclosed design, with acrylic (plexiglass) walls and top
 ### CoreXY kinematics
 Core XY kinematics was chosen for space efficiency
 
-<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-1.png" height="240px">
+<img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-1.png" height="240px"> <img src="https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-kinematics-2.png" height="240px">
 
 ### Replaceable heads
 Easily detachable head, allowing to use various heads:
