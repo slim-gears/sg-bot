@@ -1,13 +1,14 @@
-# SG-Bot
+# SG-Bot (*Work in progress*)
 
 ![](https://github.com/slim-gears/sg-bot/raw/master/docs/img/sgbot-render-2.png)
 
 - [Credits](#credits)
 - [Main features](#main-features)
 
-## Work is still in progress...
-
 ## Credits
+- Although the project was fully design from scratch, the design was highly inspired by [BLV-MGN-Cube](https://www.blvprojects.com/blv-mgn-cube-3d-printer) (thanks to Ben Levi and BLV MGN community for various ideas, taken into SG-bot)
+- The project uses various standard parts models taken from [GrabCad library](https://grabcad.com/library)
+- The project was designed using Fusion 360 community edition
 
 ## Fully enclosed Core XY 3d printer with replaceable head
 
