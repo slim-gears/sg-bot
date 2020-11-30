@@ -65,7 +65,7 @@ These sensors were tried with different build surfaces (Flexible magnetic surfac
 - SKR Pro 1.1 board
 
 ### Source model
-Source model is available [here](https://a360.co/39YiT02)
+Source model is available here: [https://gallery.autodesk.com/projects/152958/sg-bot](https://gallery.autodesk.com/projects/152958/sg-bot)
 
 ### Bill of materials
 *To be defined*
