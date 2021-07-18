@@ -72,7 +72,7 @@ These sensors were tried with different build surfaces (Flexible magnetic surfac
 
 ### PCB sources
 - [Connector breakout module](https://easyeda.com/denis.itskovich/printheadbreakout)
-- [Sensor module](https://easyeda.com/denis.itskovich/piezoboard-4-channel)
+- [Sensor module]- [Sensor module](https://easyeda.com/denis.itskovich/piezoboard-4-channel_copy)
 
 ### Marlin sources (configured for SG-bot)
 - [Marlin fork](https://github.com/slim-gears/Marlin/tree/sgbot-2.0.6)
