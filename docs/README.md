@@ -65,14 +65,17 @@ These sensors were tried with different build surfaces (Flexible magnetic surfac
 - Hiwin MGN12 rails
 - SKR Pro 1.1 board
 
-### Source model
-Source model is available here: [https://gallery.autodesk.com/projects/152958/sg-bot](https://gallery.autodesk.com/projects/152958/sg-bot)
+## Sources
 
-Or you can download it from thingiverse: [https://www.thingiverse.com/download:9744117](https://www.thingiverse.com/download:9744117)
+### Source model
+- [Source model (Fusion 360 format)](https://www.thingiverse.com/download:9744117)
 
 ### PCB sources
 - [Connector breakout module](https://easyeda.com/denis.itskovich/printheadbreakout)
 - [Sensor module](https://easyeda.com/denis.itskovich/piezoboard-4-channel)
+
+### Marlin sources (configured for SG-bot)
+- [Marlin fork](https://github.com/slim-gears/Marlin/tree/sgbot-2.0.6)
 
 ### Bill of materials
 *To be defined*
