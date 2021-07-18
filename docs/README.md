@@ -67,6 +67,7 @@ These sensors were tried with different build surfaces (Flexible magnetic surfac
 
 ### Source model
 Source model is available here: [https://gallery.autodesk.com/projects/152958/sg-bot](https://gallery.autodesk.com/projects/152958/sg-bot)
+Or you can download it from thingiverse: [https://www.thingiverse.com/download:9744117](https://www.thingiverse.com/download:9744117)
 
 ### PCB sources
 - [Connector breakout module](https://easyeda.com/denis.itskovich/printheadbreakout)
