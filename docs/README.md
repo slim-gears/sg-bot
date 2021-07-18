@@ -7,6 +7,7 @@
 - [Source model](#source-model)
 - [Bill of materials (BOM)](#bill-of-materials)
 - [3D printed parts](#3d-printed-parts)
+- [PCB sources](#pcb-sources)
 - [Assembly guide](#assembly-guide)
 
 ## Credits
@@ -67,8 +68,13 @@ These sensors were tried with different build surfaces (Flexible magnetic surfac
 ### Source model
 Source model is available here: [https://gallery.autodesk.com/projects/152958/sg-bot](https://gallery.autodesk.com/projects/152958/sg-bot)
 
+### PCB sources
+- [Connector breakout module](https://easyeda.com/denis.itskovich/printheadbreakout)
+- [Sensor module](https://easyeda.com/denis.itskovich/piezoboard-4-channel)
+
 ### Bill of materials
 *To be defined*
+
 
 ### 3D Printed parts
 [Download from Thigiverse](https://www.thingiverse.com/thing:4561234)
